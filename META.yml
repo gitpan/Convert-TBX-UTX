@@ -1,7 +1,8 @@
 ---
 abstract: 'Two way converter for TBX-Min and UTX Glossaries'
 author:
-  - unknown
+  - 'James Hayes <james.s.hayes@gmail.com>,'
+  - 'Nathan Glenn <garfieldnate@gmail.com>'
 build_requires:
   DateTime: 1.06
   Exporter::Easy: 0.16
@@ -21,7 +22,7 @@ name: Convert-TBX-UTX
 provides:
   Convert::TBX::UTX:
     file: lib/Convert/TBX/UTX.pm
-    version: 0.01
+    version: 0.02
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
