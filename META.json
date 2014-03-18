@@ -21,6 +21,7 @@
             "Exporter::Easy" : "0.16",
             "Path::Tiny" : "0.052",
             "TBX::Min" : "0.05",
+            "Test::Base" : "0.62",
             "Test::LongString" : "0.15",
             "Test::XML" : "0.08"
          }
@@ -34,7 +35,7 @@
    "provides" : {
       "Convert::TBX::UTX" : {
          "file" : "lib/Convert/TBX/UTX.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -43,5 +44,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
