@@ -5,7 +5,7 @@
       "Nathan Glenn <garfieldnate@gmail.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4005, CPAN::Meta::Converter version 2.132830",
+   "generated_by" : "Module::Build version 0.4204",
    "license" : [
       "perl_5"
    ],
@@ -28,14 +28,14 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.40"
+            "Module::Build" : "0.42"
          }
       }
    },
    "provides" : {
       "Convert::TBX::UTX" : {
          "file" : "lib/Convert/TBX/UTX.pm",
-         "version" : "0.03"
+         "version" : "0.031"
       }
    },
    "release_status" : "stable",
@@ -44,5 +44,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.03"
+   "version" : "0.031"
 }
