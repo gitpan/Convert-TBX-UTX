@@ -35,7 +35,7 @@
    "provides" : {
       "Convert::TBX::UTX" : {
          "file" : "lib/Convert/TBX/UTX.pm",
-         "version" : "0.031"
+         "version" : "0.032"
       }
    },
    "release_status" : "stable",
@@ -44,5 +44,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.031"
+   "version" : "0.032"
 }
